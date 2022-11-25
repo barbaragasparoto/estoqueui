@@ -15,7 +15,6 @@ export class EstoqueComponent implements OnInit {
 {id: 3, nomeestoque: 'Camisetas'},
 {id: 4, nomeestoque: 'Moletom'}
 
-
   ];
   displayedColumns: string[] = ['id', 'nomeestoque']
 
